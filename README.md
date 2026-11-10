@@ -1,5 +1,9 @@
 # 连点器 · AutoClicker for Android
 
+[![Android CI](https://github.com/lzf183-as/AutoClicker/actions/workflows/android.yml/badge.svg)](https://github.com/lzf183-as/AutoClicker/actions/workflows/android.yml)
+[![Release](https://img.shields.io/github/v/release/lzf183-as/AutoClicker?label=release)](https://github.com/lzf183-as/AutoClicker/releases/latest)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 免 root 的安卓自动点击器，基于无障碍服务的 `dispatchGesture` 注入手势。单机运行、不联网、无广告、无统计。
 
 - **minSdk 24**（Android 7.0）/ target 33
@@ -54,7 +58,7 @@
 
 ## 安装
 
-从 [Releases](../../releases) 下载 APK 直接安装（需要允许安装未知来源应用）。
+从 [Releases](https://github.com/lzf183-as/AutoClicker/releases/latest) 下载 APK 直接安装（需要允许安装未知来源应用，660 KB）。
 
 首次使用：
 
