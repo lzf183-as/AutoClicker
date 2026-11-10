@@ -1,0 +1,12 @@
+# 统一换行，避免 Windows 上提交后 Linux/CI 里脚本带 CRLF
+* text=auto eol=lf
+
+# Windows 批处理必须保留 CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# 二进制
+*.png binary
+*.jpg binary
+*.jar binary
+*.apk binary

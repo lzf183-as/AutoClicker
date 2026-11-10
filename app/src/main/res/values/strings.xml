@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">连点器</string>
+    <string name="service_label">连点器 · 手势服务</string>
+    <string name="service_desc">用于在屏幕上模拟点击与长按。开启后主界面可设置点位、悬浮面板控制运行。本服务不读取屏幕内容，不联网。</string>
+    <string name="log_title">运行日志</string>
+</resources>
